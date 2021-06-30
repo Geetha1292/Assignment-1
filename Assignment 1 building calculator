@@ -1,0 +1,36 @@
+Assignment 1
+
+a= int(input("First Number"))
+
+b= int(input("Second Number"))
+
+Add= a+b 
+
+Sub= a-b
+
+Mul= a*b
+
+Div= a/b 
+
+print("Add of a & b",+Add)
+
+print("Sub of a & b",+Sub)
+
+print("Mul of a & b",+Mul)
+
+print("Div of a & b",+Div)
+
+Output
+
+First Number12
+
+Second Number18
+
+Add of a & b 30
+
+Sub of a & b -6
+
+Mul of a & b 216
+
+Div of a & b 0.6666666666666666
+
